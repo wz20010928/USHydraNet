@@ -10,7 +10,7 @@
 
 5.热力图可视化是在对比试验和消融试验的代码中添加对应的代码得到相关热力图合并而成
 
-# 心脏分割部分部分（在heart文件中）
+# 心脏分割部分部分（在Heart文件中）
 1.本模型的最佳权重的下载地址为weighting factor中的文件，echo的最佳权重在e.copy camus的最佳权重c.py
 
 2.对比试验在Comparative test中
